@@ -1,0 +1,13 @@
+#count{
+    border-bottom-right-radius: 24px;
+width: 285px;
+height: 100px;
+margin-left: 40%;
+    border-width: 50%;
+    border: rgba(185, 16, 16, 0.822) solid;
+    background-color: rgba(175, 231, 238, 0.87);
+text-align: center;
+}
+body{
+    background-color: rgba(243, 111, 3, 0.692);
+}
